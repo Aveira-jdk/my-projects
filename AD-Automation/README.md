@@ -1,4 +1,4 @@
-# Active Directory Enterprise Environment Automation
+# Active Directory Enterprise Environment
 **Date:** March 7, 2024  
 **Type:** Solo project
 
