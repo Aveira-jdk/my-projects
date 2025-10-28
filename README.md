@@ -25,7 +25,7 @@ Each project reflects practical experience and fundamental knowledge in **Red Te
 | Project | Date | Type | Technologies |
 |----------|------|------|---------------|
 | [CVE Information Scraper & Report Generator](./CVE-Scraper/README.md) | Mar 25, 2024 | Group | Python, Selenium, HTML, PDF, DOCX |
-| [Active Directory Enterprise Automation](./AD-Automation/README.md) | Mar 7, 2024 | Solo | PowerShell, Python (Faker), AD DS, GPOs |
+| [Active Directory Enterprise Environment](./AD-Automation/README.md) | Mar 7, 2024 | Solo | PowerShell, Python (Faker), AD DS, GPOs |
 | [FortiGate Cywaria Project](./FortiGate-Cywaria/README.md) | Mar 27, 2024 | Solo | FortiGate, VPN, NAT, Firewall Policies |
 | [Cross-Platform Command & Control (Educational PoC)](C2/README.md) | May 12, 2024 | Solo | Python (socket, threading), MD5 |
 | [QuantumCTF – Multi-Level Challenge](./QuantumCTF/README.md) | Jul 3, 2024 | Group | Bash, C, Hashcat, Stegsnow |
