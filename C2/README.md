@@ -2,7 +2,7 @@
 **Date:** May 12, 2024  
 **Type:** Solo project
 
-**Repository:** [github.com/Aveira-jdk/Python_RED_Lefi](https://github.com/Aveira-jdk/Python_RED_Lefi
+**Repository:** [github.com/Aveira-jdk/Command-Control](https://github.com/Aveira-jdk/Command-Control
 )
 ## What This Is
 This is a Python client-server remote administration system for **authorized** use in lab environments.
